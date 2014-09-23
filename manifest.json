@@ -2,7 +2,7 @@
     "name": "SurveyMonkey FB Blocker",
     "manifest_version" : 2,
     "author": "Sam Pepose",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "Hate to see posts asking for you to take a survey? Block them from your newsfeed!",
     "permissions": ["http://www.facebook.com/*", "https://www.facebook.com/*"],
     "content_scripts": [
